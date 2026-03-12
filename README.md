@@ -22,7 +22,7 @@ The project uses the **Page Object Model (POM)** pattern to keep test logic sepa
 - Maven  
 - Page Object Model  
 - IntelliJ IDEA  
-- ChromeDriver  
+
 
 ---
 
